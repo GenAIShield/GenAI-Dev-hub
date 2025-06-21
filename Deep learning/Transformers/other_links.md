@@ -1,3 +1,5 @@
-- https://medium.com/@aakashak2000/journey-from-rnns-to-transformers-evolution-of-sequence-modelling-188368e55ba1
-- https://medium.com/@vipra_singh/llm-architectures-explained-understanding-transformers-part-6-3a5573ed30e7
 - https://jalammar.github.io/illustrated-transformer/
+- https://medium.com/@vipra_singh/llm-architectures-explained-understanding-transformers-part-6-3a5573ed30e7
+- https://medium.com/@aakashak2000/journey-from-rnns-to-transformers-evolution-of-sequence-modelling-188368e55ba1
+
+
